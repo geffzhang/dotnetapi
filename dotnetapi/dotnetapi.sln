@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetapi", "dotnetapi.csproj", "{D40B8E59-39B0-4B01-B4BA-539B74BFC2DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnetapi", "dotnetapi.csproj", "{D40B8E59-39B0-4B01-B4BA-539B74BFC2DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
