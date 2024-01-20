@@ -29,5 +29,11 @@ namespace dotnetapi.Controllers
             })
             .ToArray();
         }
-    }
+
+        [HttpGet(Name = "Hello")]
+        public string Hello()
+        {
+            return "DevOps Demo CI-CD ";
+        }
+     }
 }
