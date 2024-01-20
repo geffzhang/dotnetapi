@@ -8,6 +8,7 @@
     <UserSecretsId>9d475c4e-a0e9-42ab-acc1-e54efb654a06</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
+	<ContainerRepository>yizhanshop</ContainerRepository>
   </PropertyGroup>
 
   <ItemGroup>
