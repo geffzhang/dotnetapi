@@ -34,7 +34,7 @@ namespace dotnetapi.Controllers
         [Route("hello")]
         public string Hello()
         {
-            return "DevOps Demo CI-CD ";
+            return "DevOps Demo CI-CD 2024-01-22";
         }
      }
 }
